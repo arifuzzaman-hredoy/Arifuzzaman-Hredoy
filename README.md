@@ -52,12 +52,14 @@ My daily journey revolves around designing, provisioning, securing, and operatin
 
 <div align="center">
 
+<!-- Row 1: Operating Systems, Shell & Core Development (14 Icons) -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,python,git,github,githubactions,vscode&perline=8" alt="Linux, Bash, Python, Git, GitHub Actions"/>
+  <img src="https://skillicons.dev/icons?i=ubuntu,linux,debian,redhat,bash,powershell,python,go,git,github,gitlab,githubactions,jenkins,vscode&perline=14" alt="OS, Scripting and Development Tools"/>
 </p>
 
+<!-- Row 2: Containers, Orchestration, Cloud, IaC & Observability (14 Icons) -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,aws,terraform,kubernetes,prometheus,grafana,cloudflare&perline=8" alt="Docker, Nginx, AWS, Terraform, Kubernetes, Prometheus, Grafana"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,aws,azure,gcp,cloudflare,nginx,prometheus,grafana,elasticsearch,postgres,redis&perline=14" alt="Cloud, DevOps and Infrastructure Tools"/>
 </p>
 
 </div>

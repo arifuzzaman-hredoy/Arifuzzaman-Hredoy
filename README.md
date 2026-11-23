@@ -24,22 +24,6 @@
 
 </div>
 
----
-
-## System Status
-
-```bash
-arifuzzaman@devops-controller:~$ systemctl status devops-engineer.service
-● devops-engineer.service - Junior DevOps & Cloud Infrastructure Automation
-     Loaded: loaded (/etc/systemd/system/devops-engineer.service; enabled; vendor preset: enabled)
-     Active: active (running) since Rangpur, Bangladesh
-       Docs: https://github.com/arifuzzaman-hredoy
-   Main PID: 2026 (bash)
-      Tasks: 13 active projects, 0 failures, 100% automated
-     Memory: 64.0M (Optimized Containerized Workloads)
-        CPU: 100% Dedicated to Infrastructure Reliability
-     Status: "Monitoring clusters | Automating CI/CD pipelines | Provisioning Terraform IaC"
-```
 
 ---
 
@@ -91,15 +75,6 @@ My daily journey revolves around designing, provisioning, securing, and operatin
 | **Cloud & IaC** | AWS (EC2, VPC, IAM, Networking, Security Groups), Terraform (Infrastructure as Code, Modules, State Management) |
 | **DevSecOps & Observability** | DevSecOps, Vulnerability Scanning (Trivy), Prometheus & Grafana, Kubernetes, Helm, Argo CD (GitOps) |
 
----
-
-## GitHub Trophies & Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=arifuzzaman-hredoy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="100%"/>
-
-</div>
 
 ---
 

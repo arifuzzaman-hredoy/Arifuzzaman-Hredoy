@@ -1,104 +1,89 @@
-<h1 align="center">Hi, I'm Arifuzzaman Hredoy</h1>
+<div align="center">
 
-<h3 align="center">Aspiring DevOps Engineer | Cloud & Infrastructure Enthusiast</h3>
+# Hi, I'm Arifuzzaman Hredoy
 
-<p align="center">
-  Building practical skills in Linux, automation, containerization,
-  cloud infrastructure, and CI/CD.
-</p>
+### Aspiring DevOps Engineer · Cloud & Infrastructure Enthusiast
+
+Building practical skills through real-world projects in Linux, automation, containers, cloud infrastructure, and CI/CD.
+
+[![GitHub](https://img.shields.io/badge/GitHub-arifuzzaman--hredoy-181717?style=for-the-badge&logo=github)](https://github.com/arifuzzaman-hredoy)
+[![Location](https://img.shields.io/badge/Location-Bangladesh-006a4e?style=for-the-badge)](https://en.wikipedia.org/wiki/Bangladesh)
+
+</div>
 
 ---
 
 ## About Me
 
-I'm an aspiring DevOps Engineer focused on learning and building practical
-solutions around infrastructure, automation, and deployment workflows.
+I'm an aspiring DevOps Engineer from Bangladesh, focused on developing practical infrastructure and automation skills. I learn by building, testing, documenting, and improving projects rather than relying on theory alone.
 
-I believe in learning by building real projects, documenting my work,
-and continuously improving my technical skills.
+- Working toward a career in **DevOps and Cloud Engineering**.
+- Practicing Linux system administration and Bash automation.
+- Building with Git, Docker, Nginx, AWS, and CI/CD workflows.
+- Exploring Infrastructure as Code, monitoring, and DevSecOps.
+- Interested in reliable systems, repeatable deployments, and continuous improvement.
 
-- Currently learning and practicing DevOps engineering.
-- Interested in Linux system administration and automation.
-- Exploring Docker, AWS, CI/CD, and infrastructure management.
-- Building hands-on projects to develop production-oriented skills.
-- Focused on continuous learning and practical problem-solving.
+## Technical Skills
 
-## Technical Skills & Learning
-
-| Category | Technologies |
+| Area | Technologies |
 |---|---|
 | Operating Systems | Linux, Ubuntu |
-| Scripting | Bash |
+| Scripting & Programming | Bash, Python |
 | Version Control | Git, GitHub |
 | Containers | Docker, Docker Compose |
-| Web & Reverse Proxy | Nginx |
+| Web & Networking | Nginx, DNS, Reverse Proxy, SSL/TLS |
 | Cloud | AWS |
 | CI/CD | GitHub Actions |
-| Infrastructure as Code | Terraform (Learning) |
-| Monitoring | Prometheus, Grafana (Learning) |
+| Infrastructure as Code | Terraform — Learning |
+| Monitoring & Observability | Prometheus, Grafana — Learning |
 
 ## Featured Projects
 
-### DevOps Workflow & SDLC Lab
-Practical documentation and exercises covering DevOps workflows and software development lifecycle concepts.
+### [DevOps Workflow & SDLC Lab](https://github.com/arifuzzaman-hredoy/Devops-Workflow-And-SDLC-Lab)
+Practical notes, workflows, and exercises covering DevOps principles and the Software Development Life Cycle.
 
-[View Repository](https://github.com/arifuzzaman-hredoy/Devops-Workflow-And-SDLC-Lab)
+### [Production Linux Server Administration](https://github.com/arifuzzaman-hredoy/Production-Linux-Server-Administration)
+Hands-on practice in Linux administration, server operations, users and permissions, services, storage, and troubleshooting.
 
-### Production Linux Server Administration
-Hands-on Linux administration and server management practice.
+### [Bash & Git DevOps Automation Toolkit](https://github.com/arifuzzaman-hredoy/Bash-Git-Devops-Automation-Toolkit)
+A practical workspace for Bash scripting, Git workflows, and command-line automation.
 
-[View Repository](https://github.com/arifuzzaman-hredoy/Production-Linux-Server-Administration)
+### [Docker Containerization Platform](https://github.com/arifuzzaman-hredoy/Docker-Containerization-Platform)
+Containerization exercises focused on Docker fundamentals and repeatable application environments.
 
-### Bash & Git DevOps Automation Toolkit
-Practical Bash scripting, Git workflows, and automation exercises.
-
-[View Repository](https://github.com/arifuzzaman-hredoy/Bash-Git-Devops-Automation-Toolkit)
-
-### Docker Containerization Platform
-Containerization practice and Docker-based project development.
-
-[View Repository](https://github.com/arifuzzaman-hredoy/Docker-Containerization-Platform)
-
-### Nginx Reverse Proxy & Domain SSL
-Hands-on practice with Nginx, reverse proxy configuration, domains, and SSL.
-
-[View Repository](https://github.com/arifuzzaman-hredoy/Nginx-Reverse-Proxy-Domain-SSL)
+### [Nginx Reverse Proxy & Domain SSL](https://github.com/arifuzzaman-hredoy/Nginx-Reverse-Proxy-Domain-SSL)
+Hands-on implementation of Nginx reverse proxying, domain configuration, and SSL/TLS.
 
 ## Current Learning Roadmap
 
-- Linux System Administration
-- Bash Scripting & Automation
-- Git & GitHub Workflows
-- Docker & Containerization
-- Nginx & SSL Configuration
-- CI/CD with GitHub Actions
-- AWS Cloud Infrastructure
-- Terraform & Infrastructure as Code
-- Monitoring & Observability
-- Kubernetes & DevSecOps
+1. Linux System Administration
+2. Bash Scripting & Git Automation
+3. Docker & Docker Compose
+4. Nginx, DNS, and SSL/TLS
+5. CI/CD with GitHub Actions
+6. AWS Cloud Infrastructure
+7. Terraform & Infrastructure as Code
+8. Monitoring with Prometheus and Grafana
+9. Kubernetes & Helm
+10. GitOps, DevSecOps, and Cloud-Native Operations
 
-## GitHub Activity
+## GitHub Statistics
 
-<p align="center">
-  <a href="https://github.com/arifuzzaman-hredoy">
-    <img src="https://github-readme-stats.vercel.app/api?username=arifuzzaman-hredoy&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/arifuzzaman-hredoy">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifuzzaman-hredoy&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
-  </a>
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=arifuzzaman-hredoy&show_icons=true&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifuzzaman-hredoy&layout=compact&hide_border=true" alt="Most used languages" />
+
+</div>
 
 ## Connect
 
-<p>
-  <a href="https://github.com/arifuzzaman-hredoy">GitHub</a>
-</p>
+- GitHub: [@arifuzzaman-hredoy](https://github.com/arifuzzaman-hredoy)
 
 ---
 
-<p align="center">
-  <i>Learning continuously. Building practically. Improving every day.</i>
-</p>
+<div align="center">
+
+**Learning continuously · Building practically · Improving every day**
+
+</div>

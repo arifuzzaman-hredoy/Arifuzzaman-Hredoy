@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0d1117,161b22,005a5b,008060,00f2fe&height=220&section=header&text=MD%20Arifuzzaman%20Hredoy&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Junior%20DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20%7C%20CI/CD%20%7C%20IaC&descAlignY=60&descSize=18&descColor=00f2fe&animation=fadeIn" alt="MD Arifuzzaman Hredoy" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Junior+DevOps+Engineer;Automating+Cloud+Infrastructure+%26+Pipelines;Building+Production-Ready+Kubernetes+Clusters;Linux+SysAdmin+%7C+IaC+%7C+CI%2FCD+%7C+DevSecOps;Continuous+Delivery+%26+GitOps+Practitioner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=680&lines=Junior+DevOps+Engineer;Automating+Cloud+Infrastructure+%26+Pipelines;Building+Production-Ready+Kubernetes+Clusters;Linux+SysAdmin+%7C+IaC+%7C+CI%2FCD+%7C+DevSecOps;Continuous+Delivery+%26+GitOps+Practitioner" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,6 +23,23 @@
 <img src="https://komarev.com/ghpvc/?username=arifuzzaman-hredoy&label=PROFILE+VIEWS&style=flat-square&color=00a878" alt="Profile Views"/>
 
 </div>
+
+---
+
+## System Status
+
+```bash
+arifuzzaman@devops-controller:~$ systemctl status devops-engineer.service
+● devops-engineer.service - Junior DevOps & Cloud Infrastructure Automation
+     Loaded: loaded (/etc/systemd/system/devops-engineer.service; enabled; vendor preset: enabled)
+     Active: active (running) since Rangpur, Bangladesh
+       Docs: https://github.com/arifuzzaman-hredoy
+   Main PID: 2026 (bash)
+      Tasks: 13 active projects, 0 failures, 100% automated
+     Memory: 64.0M (Optimized Containerized Workloads)
+        CPU: 100% Dedicated to Infrastructure Reliability
+     Status: "Monitoring clusters | Automating CI/CD pipelines | Provisioning Terraform IaC"
+```
 
 ---
 
@@ -76,6 +93,16 @@ My daily journey revolves around designing, provisioning, securing, and operatin
 
 ---
 
+## GitHub Trophies & Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=arifuzzaman-hredoy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="100%"/>
+
+</div>
+
+---
+
 ## Contribution Activity Graph
 
 <div align="center">
@@ -107,9 +134,9 @@ My daily journey revolves around designing, provisioning, securing, and operatin
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arifuzzaman-hredoy/arifuzzaman-hredoy/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arifuzzaman-hredoy/arifuzzaman-hredoy/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/arifuzzaman-hredoy/arifuzzaman-hredoy/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arifuzzaman-hredoy/Arifuzzaman-Hredoy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arifuzzaman-hredoy/Arifuzzaman-Hredoy/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/arifuzzaman-hredoy/Arifuzzaman-Hredoy/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -118,120 +145,172 @@ My daily journey revolves around designing, provisioning, securing, and operatin
 
 # Featured DevOps Projects
 
-### 01. DevOps Workflow & SDLC Lab
+<details open>
+<summary><b>01. DevOps Workflow & SDLC Lab</b></summary>
+<br/>
+
 **Repository:** https://github.com/arifuzzaman-hredoy/Devops-Workflow-And-SDLC-Lab
 
 A practical lab covering Software Development Life Cycle (SDLC), DevOps culture, workflows, methodologies, version control practices, and industry-standard software delivery processes.
 
 **Technologies:** DevOps, SDLC, Git, GitHub, Agile, Documentation.
 
----
+</details>
 
-### 02. Production Linux Server Administration
+<details open>
+<summary><b>02. Production Linux Server Administration</b></summary>
+<br/>
+
 **Repository:** https://github.com/arifuzzaman-hredoy/Production-Linux-Server-Administration
 
 Hands-on Linux server administration project covering system management, users and permissions, storage, services, process management, SSH security, firewall configuration, troubleshooting, and server maintenance.
 
 **Technologies:** Linux, Ubuntu, Bash, SSH, Systemd, Networking, UFW.
 
----
+</details>
 
-### 03. DevOps Network Engineering Lab
+<details open>
+<summary><b>03. DevOps Network Engineering Lab</b></summary>
+<br/>
+
 **Repository:** https://github.com/arifuzzaman-hredoy/DevOps-Network-Engineering-Lab
 
 Practical networking laboratory focused on TCP/IP, subnetting, DNS, DHCP, routing, firewall rules, network troubleshooting, and understanding production infrastructure connectivity.
 
 **Technologies:** TCP/IP, DNS, DHCP, Networking, Linux, Firewall, Troubleshooting.
 
----
+</details>
 
-### 04. Bash & Git DevOps Automation Toolkit
+<details open>
+<summary><b>04. Bash & Git DevOps Automation Toolkit</b></summary>
+<br/>
+
 **Repository:** https://github.com/arifuzzaman-hredoy/Bash-Git-Devops-Automation-Toolkit
 
 A collection of practical Bash scripts and Git automation workflows designed to simplify repetitive DevOps tasks, automate system operations, and improve development workflows.
 
 **Technologies:** Bash, Shell Scripting, Git, GitHub, Linux Automation.
 
----
+</details>
 
-### 05. Docker Containerization Platform
+<details open>
+<summary><b>05. Docker Containerization Platform</b></summary>
+<br/>
+
 **Repository:** https://github.com/arifuzzaman-hredoy/Docker-Containerization-Platform
 
 A practical containerization project demonstrating Docker fundamentals, image creation, container lifecycle management, networking, persistent storage, and production-oriented container deployment.
 
 **Technologies:** Docker, Dockerfile, Docker Images, Containers, Volumes, Networks.
 
----
+</details>
 
-### 06. Docker Compose Multi-Tier Platform
+<details open>
+<summary><b>06. Docker Compose Multi-Tier Platform</b></summary>
+<br/>
+
 **Repository:** https://github.com/arifuzzaman-hredoy/Docker-compose-Multi-Tier-Platform
 
 A multi-tier application deployment project using Docker Compose, demonstrating service orchestration, application and database integration, container networking, persistent volumes, and environment-based configuration.
 
 **Technologies:** Docker, Docker Compose, Linux, Nginx, Python/Node.js, PostgreSQL.
 
----
+</details>
 
-### 07. Git Version Control Lab
+<details open>
+<summary><b>07. Git Version Control Lab</b></summary>
+<br/>
+
 **Repository:** https://github.com/arifuzzaman-hredoy/Git-Version-Control-Lab
 
 A practical Git laboratory covering version control fundamentals, branching strategies, merging, rebasing, conflict resolution, commit management, and collaborative development workflows.
 
 **Technologies:** Git, GitHub, Git Branching, Git Merge, Git Rebase.
 
----
+</details>
 
-### 08. GitHub Collaboration Lab
+<details open>
+<summary><b>08. GitHub Collaboration Lab</b></summary>
+<br/>
+
 **Repository:** https://github.com/arifuzzaman-hredoy/GitHub-Collaboration-Lab
 
 A hands-on project demonstrating professional GitHub collaboration workflows, pull requests, issues, code reviews, repository management, project boards, and team-based development practices.
 
 **Technologies:** GitHub, Git, Pull Requests, Issues, Code Review, GitHub Projects.
 
----
+</details>
 
-### 09. Nginx Reverse Proxy, Domain & SSL
+<details open>
+<summary><b>09. Nginx Reverse Proxy, Domain & SSL</b></summary>
+<br/>
+
 **Repository:** https://github.com/arifuzzaman-hredoy/Nginx-Reverse-Proxy-Domain-SSL
 
 A production-oriented web deployment project covering Nginx configuration, reverse proxy implementation, custom domain integration, HTTPS setup, SSL certificate management, and secure web traffic handling.
 
 **Technologies:** Nginx, Linux, DNS, Domain Configuration, SSL/TLS, Certbot, Let's Encrypt.
 
----
+</details>
 
-### 10. Automated CI/CD Pipeline
+<details open>
+<summary><b>10. Automated CI/CD Pipeline</b></summary>
+<br/>
+
 **Repository:** https://github.com/arifuzzaman-hredoy/Automated-CI-CD-Pipeline
 
 An automated software delivery pipeline demonstrating source code integration, automated testing, build processes, container image creation, deployment automation, and continuous delivery workflows.
 
 **Technologies:** GitHub Actions, Git, Docker, CI/CD, Linux, Automated Testing.
 
----
+</details>
 
-### 11. AWS Cloud Infrastructure & EC2 Deployment
+<details open>
+<summary><b>11. AWS Cloud Infrastructure & EC2 Deployment</b></summary>
+<br/>
+
 **Repository:** https://github.com/arifuzzaman-hredoy/AWS-Cloud-Infrastructure-EC2-Deployment
 
 A cloud infrastructure project demonstrating AWS resource provisioning, VPC networking, EC2 deployment, security groups, IAM, routing, and application hosting in a cloud environment.
 
 **Technologies:** AWS, EC2, VPC, IAM, Security Groups, Internet Gateway, NAT Gateway, AWS CLI.
 
----
+</details>
 
-### 12. Terraform Infrastructure as Code
+<details open>
+<summary><b>12. Terraform Infrastructure as Code</b></summary>
+<br/>
+
 **Repository:** https://github.com/arifuzzaman-hredoy/Terraform-Infrastructure-as-Code
 
 An Infrastructure as Code project demonstrating automated cloud resource provisioning, reusable Terraform configurations, state management, variables, outputs, modules, and infrastructure lifecycle management.
 
 **Technologies:** Terraform, HCL, AWS, Infrastructure as Code, AWS CLI.
 
----
+</details>
 
-### 13. DevSecOps, Monitoring & Kubernetes Platform
+<details open>
+<summary><b>13. DevSecOps, Monitoring & Kubernetes Platform</b></summary>
+<br/>
+
 **Repository:** https://github.com/arifuzzaman-hredoy/DevSecOps-Monitoring-Kubernetes-Platform
 
 An advanced DevOps platform integrating security automation, container vulnerability scanning, infrastructure monitoring, centralized observability, container orchestration, and GitOps-based deployment workflows.
 
 **Technologies:** Kubernetes, Docker, Trivy, Prometheus, Grafana, Loki, Helm, Argo CD, DevSecOps.
+
+</details>
+
+---
+
+## Certifications & Roadmap Target
+
+| Focus Area | Track | Target Status |
+| :--- | :--- | :--- |
+| **Linux Administration** | RHCSA (Red Hat Certified System Administrator) | In Progress |
+| **Cloud Engineering** | AWS Certified Solutions Architect – Associate (SAA-C03) | Target 2026 |
+| **Container Orchestration** | CKA (Certified Kubernetes Administrator) | Target 2026 |
+| **Infrastructure as Code** | HashiCorp Certified: Terraform Associate | Target 2026 |
 
 ---
 

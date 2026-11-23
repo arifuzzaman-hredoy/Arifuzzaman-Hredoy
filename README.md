@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,161b22,0d1117,006266,00a878&height=220&section=header&text=MD%20Arifuzzaman%20Hredoy&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Junior%20DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20%7C%20CI/CD%20%7C%20IaC&descAlignY=60&descSize=18&descColor=00f2fe&animation=fadeIn" alt="MD Arifuzzaman Hredoy" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0d1117,161b22,005a5b,008060,00f2fe&height=220&section=header&text=MD%20Arifuzzaman%20Hredoy&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Junior%20DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20%7C%20CI/CD%20%7C%20IaC&descAlignY=60&descSize=18&descColor=00f2fe&animation=fadeIn" alt="MD Arifuzzaman Hredoy" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Junior+DevOps+Engineer;Automating+Cloud+Infrastructure+%26+Pipelines;Building+Production-Ready+Kubernetes+Clusters;Linux+SysAdmin+%7C+IaC+%7C+CI%2FCD+%7C+DevSecOps" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Junior+DevOps+Engineer;Automating+Cloud+Infrastructure+%26+Pipelines;Building+Production-Ready+Kubernetes+Clusters;Linux+SysAdmin+%7C+IaC+%7C+CI%2FCD+%7C+DevSecOps;Continuous+Delivery+%26+GitOps+Practitioner" alt="Typing SVG" />
+</a>
 
 <br/>
 
@@ -16,6 +18,10 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arifuzzaman-hredoy)
 [![Email](https://img.shields.io/badge/Email-arifuzzamanhredoy@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arifuzzamanhredoy@gmail.com)
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=arifuzzaman-hredoy&label=PROFILE+VIEWS&style=flat-square&color=00a878" alt="Profile Views"/>
+
 </div>
 
 ---
@@ -24,9 +30,20 @@
 
 > *"Learn by building, automate repetitive tasks, follow industry best practices, and develop reliable, secure, and scalable infrastructure."*
 
-I am a dedicated **Junior DevOps Engineer** specializing in cloud infrastructure, Linux systems administration, and end-to-end automation pipelines. Currently pursuing my **Diploma in Engineering in Computer Science & Technology at Rangpur Polytechnic Institute (3rd Semester)**.
+I am an aspiring **Junior DevOps Engineer** with a strong focus on cloud architecture, Linux administration, infrastructure as code, and end-to-end continuous delivery pipelines. Currently completing my **Diploma in Engineering in Computer Science & Technology at Rangpur Polytechnic Institute (3rd Semester)**.
 
-My engineering lifecycle focuses on designing, provisioning, securing, and operating production-grade environments through code. Every lab and architecture is thoroughly documented with repeatable automation.
+My daily journey revolves around designing, provisioning, securing, and operating production-grade environments through code. Every lab and architecture is thoroughly documented with repeatable automation.
+
+---
+
+## Interactive Infrastructure Lifecycle
+
+```
+[ Code / Git ] ────> [ CI: GitHub Actions ] ────> [ Security: Trivy ]
+                                                           │
+                                                           ▼
+[ Monitoring: Prometheus / Grafana ] <──── [ K8s / Argo CD GitOps ] <──── [ Artifact: Docker ]
+```
 
 ---
 
@@ -59,6 +76,16 @@ My engineering lifecycle focuses on designing, provisioning, securing, and opera
 
 ---
 
+## Contribution Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arifuzzaman-hredoy&theme=tokyo-night&hide_border=true&area=true&color=00f2fe" alt="Contribution Graph" width="100%"/>
+
+</div>
+
+---
+
 ## GitHub Analytics
 
 <div align="center">
@@ -70,6 +97,20 @@ My engineering lifecycle focuses on designing, provisioning, securing, and opera
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifuzzaman-hredoy&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
+
+</div>
+
+---
+
+## 3D Contribution & Commit Journey
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arifuzzaman-hredoy/arifuzzaman-hredoy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arifuzzaman-hredoy/arifuzzaman-hredoy/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/arifuzzaman-hredoy/arifuzzaman-hredoy/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -215,7 +256,7 @@ I am actively open to discussing **Junior DevOps roles**, **internships**, and *
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,161b22,0d1117,006266,00a878&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0d1117,161b22,005a5b,008060,00f2fe&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 <sub>Designed & maintained with dedication by <a href="https://github.com/arifuzzaman-hredoy"><b>MD Arifuzzaman Hredoy</b></a></sub>
 

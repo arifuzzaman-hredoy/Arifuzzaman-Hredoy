@@ -16,7 +16,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-oxytumzone.com-00A878?style=for-the-badge&logo=googlechrome&logoColor=white)](https://oxytumzone.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-006266?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arifuzzaman-hredoy)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arifuzzaman-hredoy)
-[![Email](https://img.shields.io/badge/Email-arifuzzamanhredoy@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arifuzzamanhredoy@gmail.com)
 
 <br/><br/>
 
